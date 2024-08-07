@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pmcoelho@protonmail.com on PMCoelho</title>
+    <link>http://localhost:1313/authors/pmcoelho@protonmail.com/</link>
+    <description>Recent content in Pmcoelho@protonmail.com on PMCoelho</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/pmcoelho@protonmail.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpaceLaser: A Spacemacs inspired laucher for laser focused workflow</title>
+      <link>http://localhost:1313/projects/spacelaser/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spacelaser/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artemoted API: Django API for artwork portfolio social network</title>
+      <link>http://localhost:1313/projects/artemoted-api/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/artemoted-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artemoted Web: React App for artwork portfolio social network</title>
+      <link>http://localhost:1313/projects/artemoted-web/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/artemoted-web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SpacePass: A Spacemacs inspired laucher for password manager</title>
+      <link>http://localhost:1313/projects/spacepass/</link>
+      <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spacepass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SpaceMenu: A Spacemacs inspired library to display Gtk Menus</title>
+      <link>http://localhost:1313/projects/spacemenu/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/spacemenu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>StatFMB: Statistical Analysis of National Park Visitors</title>
+      <link>http://localhost:1313/projects/stat-fmb/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stat-fmb/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
